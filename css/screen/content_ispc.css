@@ -88,7 +88,9 @@
 	table.list .tbl_row_even { background: #ffffff; }
 	table.list .tbl_row_uneven { background: #cccccc; }
 	table.list tr:hover { background: #F63; }
-	table.list tr:hover a:hover, table.list tr:hover a:focus, table.list tr:hover a:active { color: white;}
+	table.list tr:hover a:hover  { color: white;}
+	table.list tr:hover a:focus	 { color: white;}
+	table.list tr:hover a:active { color: white;}
 
     /* Password Strength */
     #passBar {
