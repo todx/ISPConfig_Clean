@@ -87,10 +87,8 @@
 	table.list tfoot td { text-align: center; background: #3d4753; color: #fff; padding: 8px 8px 8px 8px; }
 	table.list .tbl_row_even { background: #ffffff; }
 	table.list .tbl_row_uneven { background: #cccccc; }
-	table.list tr:hover { background: #F63; }
-	table.list tr:hover a:hover  { color: white;}
-	table.list tr:hover a:focus	 { color: white;}
-	table.list tr:hover a:active { color: white;}
+	table.list tr:hover { background: #FFFFDA; }
+	
 
     /* Password Strength */
     #passBar {

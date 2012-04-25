@@ -80,7 +80,7 @@
 	#submenu li a { width: 90%; padding-left: 10%; background-color:#fff; color: #444; }
 	#submenu li a:focus,
 	#submenu li a:hover,
-	#submenu li a:active { background-color:#f63; color: #fff; }
+	#submenu li a:active { background-color: #FFFFDA; color: #fff; }
 
 	/* Level 2 */
 	#submenu li ul li a,
@@ -91,7 +91,7 @@
 	#submenu li ul li a { background-color:#f8f8f8; color: #666; }
 	#submenu li ul li a:focus,
 	#submenu li ul li a:hover,
-	#submenu li ul li a:active { background-color:#f63; color: #fff; }
+	#submenu li ul li a:active { background-color: #FFFFDA; color: #fff; }
 
 	/* Level 3 */
 	#submenu li ul li ul li a,
@@ -102,7 +102,7 @@
 	#submenu li ul li ul li a { background-color:#fcfcfc; color: #888; }
 	#submenu li ul li ul li a:focus,
 	#submenu li ul li ul li a:hover,
-	#submenu li ul li ul li a:active { background-color:#f63; color: #fff; }
+	#submenu li ul li ul li a:active { background-color:# #FFFFDA; color: #fff; }
 
 	/* Level 4 */
 	#submenu li ul li ul li ul li a,
@@ -113,7 +113,7 @@
 	#submenu li ul li ul li ul li a { background-color:#ffffff; color: #aaa; }
 	#submenu li ul li ul li ul li a:focus,
 	#submenu li ul li ul li ul li a:hover,
-	#submenu li ul li ul li ul li a:active { background-color:#f63; color: #fff; }
+	#submenu li ul li ul li ul li a:active { background-color: #FFFFDA; color: #fff; }
 
 	/* Form-Elements in the Menu*/
 	#submenu * select#server_id {
