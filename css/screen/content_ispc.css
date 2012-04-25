@@ -111,31 +111,31 @@
 		width: 100%;
     }
     .systemmonitor-state.state-no_state {
-		border-top: 4px solid #ffcc00;
+		border: 1px solid #ffcc00;
 		background-color: #fffaea;
     }
     .systemmonitor-state.state-unknown {
-		border-top: 4px solid #30302e;
+		border: 1px solid #30302e;
 		background-color: #cecfc5;
     }
     .systemmonitor-state.state-ok {
-		border-top: 4px solid #d1fec9;
+		border: 1px solid #d1fec9;
 		background-color: #f2fff0;
     }
     .systemmonitor-state.state-info {
-		border-top: 4px solid #183e99;
+		border: 1px solid #183e99;
 		background-color: #d4e2ff;
     }
     .systemmonitor-state.state-warning {
-		border-top: 4px solid #ffa800;
+		border: 1px solid #ffa800;
 		background-color: #ffda93;
     }
     .systemmonitor-state.state-critical {
-		border-top: 4px solid #ff0000;
+		border: 1px solid #ff0000;
 		background-color: #ffb9b9;
     }
     .systemmonitor-state.state-error {
-		border-top: 4px solid #ff0000;
+		border: 1px solid #ff0000;
 		background-color: #ff7f7f;
     }
     .systemmonitor-state.state-no_state-ve {
