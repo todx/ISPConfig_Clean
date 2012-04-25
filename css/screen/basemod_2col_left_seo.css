@@ -33,7 +33,7 @@
 
   /* #col1 becomes the fixed navigation column | #col1 wird zur Navigationsspalte mit fester Breite */
   #col1 { width: 200px; float:left}
-  #col1_content { padding: 0 10px 0 0; }
+  #col1_content { padding: 0.25em 10px 0 0; }
 
   /* #col2 is turned off | #col2 abschalten */
   #col2 { display:none; }
