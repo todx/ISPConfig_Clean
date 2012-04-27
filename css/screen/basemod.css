@@ -84,8 +84,8 @@
 		background: #3d4753; 
 		width: 104%; 
 		margin-left: -2%;
-		-moz-border-radius: 15px;
-		border-radius: 15px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
 	}
 	
 	#main { background: #fff;padding:10px 0; }
