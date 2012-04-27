@@ -82,8 +82,8 @@
 	/* (de) Anpassung der Hauptnavigation */
 	#nav_main { 
 		background: #3d4753; 
-		width: 104%; 
-		margin-left: -2%;
+		width: 103%; 
+		margin-left: -1.5%;
 		-moz-border-radius: 5px;
 		border-radius: 5px;
 	}
