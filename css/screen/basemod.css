@@ -80,7 +80,13 @@
 	
 	/* (en) adjustment of main navigation */
 	/* (de) Anpassung der Hauptnavigation */
-	#nav_main { background: #3d4753; width: 102%; margin-left: -1%;}
+	#nav_main { 
+		background: #3d4753; 
+		width: 102%; 
+		margin-left: -1%;
+		-moz-border-radius: 15px;
+		border-radius: 15px;
+	}
 	
 	#main { background: #fff;padding:10px 0; }
 	
