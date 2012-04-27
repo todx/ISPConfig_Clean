@@ -176,7 +176,14 @@
 	table.fixed { table-layout:fixed }
 	
 	th,td { padding: 0.5em;text-align:left; }
-	thead th { background: #3d4753; color: #fff }
+	thead th { 
+		background: #3d4753; 
+		color: #fff;  
+		-moz-border-radius-topleft: 5px; 
+		-moz-border-radius-topright: 5px;
+		-webkit-border-top-left-radius: 5px;
+		-webkit-border-top-right-radius: 5px;
+	 }
 	tbody th { background: #ccc; color: #333 }
 	tbody th.sub { background: #ddd; color: #333 }
 	
