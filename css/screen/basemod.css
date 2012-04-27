@@ -97,9 +97,11 @@
 	 background: #3d4753;
 	 font-size: 1em;
 	 text-align: center;
-	 width: 102%;
-	 margin-left: -1%;
+	 width: 103%;
+	 margin-left: -1.5%;
 	 margin-bottom: -10px;
+	 -moz-border-radius: 5px;
+	 border-radius: 5px;
 	}
 	
 	/*------------------------------------------------------------------------------------------------------*/
