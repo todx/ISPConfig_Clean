@@ -176,7 +176,7 @@
 	table.fixed { table-layout:fixed }
 	
 	th,td { padding: 0.5em;text-align:left; }
-	thead th { 
+	thead { 
 		background: #3d4753; 
 		color: #fff;  
 		-moz-border-radius-topleft: 5px; 
