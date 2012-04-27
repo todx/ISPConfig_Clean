@@ -82,8 +82,8 @@
 	/* (de) Anpassung der Hauptnavigation */
 	#nav_main { 
 		background: #3d4753; 
-		width: 103%; 
-		margin-left: -1.5%;
+		width: 102%; 
+		margin-left: -1%;
 		-moz-border-radius: 5px;
 		border-radius: 5px;
 	}
@@ -97,8 +97,8 @@
 	 background: #3d4753;
 	 font-size: 1em;
 	 text-align: center;
-	 width: 103%;
-	 margin-left: -1.5%;
+	 width: 102%;
+	 margin-left: -1%;
 	 margin-bottom: -10px;
 	 -moz-border-radius: 5px;
 	 border-radius: 5px;
