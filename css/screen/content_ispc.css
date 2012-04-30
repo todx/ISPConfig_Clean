@@ -86,7 +86,7 @@
 	table.list tbody { border: 1px solid #d3d3d3 !important; }
 	table.list tfoot td { text-align: center; background: #3d4753; color: #fff; padding: 8px 8px 8px 8px; }
 	table.list .tbl_row_even { background: #ffffff; }
-	table.list .tbl_row_uneven { background: #cccccc; }
+	table.list .tbl_row_uneven { background: #f0f0f0; }
 	table.list tr:hover { background: #FFFFDA; }
 	
 
